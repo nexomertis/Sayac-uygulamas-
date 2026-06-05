@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:Arial,sans-serif;
+    background-color: #ffda97;
+}
+.app-container {
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: gray;
+    color:black;
+}
